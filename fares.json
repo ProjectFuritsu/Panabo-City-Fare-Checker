@@ -12,7 +12,6 @@
       "name": "Tricycle",
       "baseKm": 3,
       "addPerKm": { "regular": 2, "discounted": 2 },
-      "addIfAlone": 10,
       "addAtNight": 15,
       "fares": [
         { "fuelFrom": 20, "regular": 10, "discounted": 8 },
